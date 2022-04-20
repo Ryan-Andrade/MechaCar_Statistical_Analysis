@@ -16,3 +16,6 @@ From our T test you are able to determine that across all manufacturing lots the
 Lot one maintains a P value of 1 so the mean exactly matches the population. (https://postimg.cc/CzZ43923)
 Lot 2 has a P value of 0.6 which is far above our confidence interval so we fail to reject the no hypothesis in this case as well. (https://postimg.cc/rKv9MQXK).
 Lot three on the other hand has a P value of 0.04 which is below our confidence interval giving us a statistical difference from the population mean (https://postimg.cc/18wrtwsM)
+
+## Study Design: MechaCar vs Competition
+An interesting study design that can be used by MechaCar against the competition would be noise level. The noise level can be measured in decibels inside the cabin of the vehicle as well as decibels recorded at near the muffler, each tire, and lastly inside the engine bed. The null hypothesis would state that there is no statistical difference in decibels measured in the MechaCar versus decibels measured in competitor vehicles.The statistical method that we would use for this design study is a two sample T test because we are trying to determine if there is a statistical difference between the mean of the MechaCar distribution and the mean of competitor distributions. The data that we will need to run this test or dB recordings be captured by microphones.
